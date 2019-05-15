@@ -1,4 +1,4 @@
-from car import Car
+from prac_08.car import Car
 
 
 class Taxi(Car):
