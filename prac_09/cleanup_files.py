@@ -21,6 +21,7 @@ def main():
 
 def get_fixed_filename(filename):
     # enumerate here
+    # use string concatenation
     new_name = filename.replace(" ", "_").replace(".TXT", ".txt")
     return new_name
 
